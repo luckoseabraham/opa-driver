@@ -1,0 +1,64 @@
+# github.com/OneOfOne/xxhash v1.2.7
+github.com/OneOfOne/xxhash
+# github.com/ghodss/yaml v1.0.0
+github.com/ghodss/yaml
+# github.com/gobwas/glob v0.2.3
+github.com/gobwas/glob
+github.com/gobwas/glob/compiler
+github.com/gobwas/glob/match
+github.com/gobwas/glob/syntax
+github.com/gobwas/glob/syntax/ast
+github.com/gobwas/glob/syntax/lexer
+github.com/gobwas/glob/util/runes
+github.com/gobwas/glob/util/strings
+# github.com/open-policy-agent/frameworks/constraint v0.0.0-20200921183631-5630119f92ad
+## explicit
+# github.com/open-policy-agent/opa v0.19.1
+## explicit
+github.com/open-policy-agent/opa/ast
+github.com/open-policy-agent/opa/ast/internal/scanner
+github.com/open-policy-agent/opa/ast/internal/tokens
+github.com/open-policy-agent/opa/ast/location
+github.com/open-policy-agent/opa/bundle
+github.com/open-policy-agent/opa/internal/compiler/wasm
+github.com/open-policy-agent/opa/internal/compiler/wasm/opa
+github.com/open-policy-agent/opa/internal/file/archive
+github.com/open-policy-agent/opa/internal/file/url
+github.com/open-policy-agent/opa/internal/ir
+github.com/open-policy-agent/opa/internal/lcss
+github.com/open-policy-agent/opa/internal/leb128
+github.com/open-policy-agent/opa/internal/merge
+github.com/open-policy-agent/opa/internal/planner
+github.com/open-policy-agent/opa/internal/version
+github.com/open-policy-agent/opa/internal/wasm/constant
+github.com/open-policy-agent/opa/internal/wasm/encoding
+github.com/open-policy-agent/opa/internal/wasm/instruction
+github.com/open-policy-agent/opa/internal/wasm/module
+github.com/open-policy-agent/opa/internal/wasm/opcode
+github.com/open-policy-agent/opa/internal/wasm/types
+github.com/open-policy-agent/opa/loader
+github.com/open-policy-agent/opa/metrics
+github.com/open-policy-agent/opa/rego
+github.com/open-policy-agent/opa/storage
+github.com/open-policy-agent/opa/storage/inmem
+github.com/open-policy-agent/opa/topdown
+github.com/open-policy-agent/opa/topdown/builtins
+github.com/open-policy-agent/opa/topdown/copypropagation
+github.com/open-policy-agent/opa/topdown/internal/jwx/buffer
+github.com/open-policy-agent/opa/topdown/internal/jwx/jwa
+github.com/open-policy-agent/opa/topdown/internal/jwx/jwk
+github.com/open-policy-agent/opa/topdown/internal/jwx/jws
+github.com/open-policy-agent/opa/topdown/internal/jwx/jws/sign
+github.com/open-policy-agent/opa/topdown/internal/jwx/jws/verify
+github.com/open-policy-agent/opa/types
+github.com/open-policy-agent/opa/util
+github.com/open-policy-agent/opa/version
+# github.com/pkg/errors v0.8.1
+## explicit
+github.com/pkg/errors
+# github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
+github.com/rcrowley/go-metrics
+# github.com/yashtewari/glob-intersection v0.0.0-20180916065949-5c77d914dd0b
+github.com/yashtewari/glob-intersection
+# gopkg.in/yaml.v2 v2.2.4
+gopkg.in/yaml.v2
