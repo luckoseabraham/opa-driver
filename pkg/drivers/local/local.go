@@ -268,7 +268,7 @@ func (d *driver) Query(ctx context.Context, path string, input interface{}, opts
 	i := string(inp)
 	return &drivers.Response{
 		Trace:   trace,
-		Results: rs,
+		Results: &rs,
 		Input:   &i,
 	}, nil
 }
