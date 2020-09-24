@@ -1,6 +1,7 @@
 # github.com/OneOfOne/xxhash v1.2.7
 github.com/OneOfOne/xxhash
 # github.com/ghodss/yaml v1.0.0
+## explicit
 github.com/ghodss/yaml
 # github.com/gobwas/glob v0.2.3
 github.com/gobwas/glob
@@ -11,7 +12,7 @@ github.com/gobwas/glob/syntax/ast
 github.com/gobwas/glob/syntax/lexer
 github.com/gobwas/glob/util/runes
 github.com/gobwas/glob/util/strings
-# github.com/open-policy-agent/frameworks/constraint v0.0.0-20200921183631-5630119f92ad
+# github.com/kr/pretty v0.1.0
 ## explicit
 # github.com/open-policy-agent/opa v0.19.1
 ## explicit
@@ -60,5 +61,8 @@ github.com/pkg/errors
 github.com/rcrowley/go-metrics
 # github.com/yashtewari/glob-intersection v0.0.0-20180916065949-5c77d914dd0b
 github.com/yashtewari/glob-intersection
+# gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
+## explicit
 # gopkg.in/yaml.v2 v2.2.4
+## explicit
 gopkg.in/yaml.v2
