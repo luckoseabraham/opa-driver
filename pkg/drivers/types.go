@@ -6,5 +6,5 @@ type Response struct {
 	Trace   *string
 	Input   *string
 	Target  string
-	Results []*rego.ResultSet
+	Results *rego.ResultSet
 }

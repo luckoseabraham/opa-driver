@@ -261,7 +261,6 @@ func (d *driver) Query(ctx context.Context, path string, input interface{}, opts
 		return nil, err
 	}
 	// Add a variable binding to the path
-	path = fmt.Sprintf("data.%s[result]", path)
 	rs, trace, err := d.eval(ctx, path, input, cfg)
 	if err != nil {
 		return nil, err
