@@ -20,6 +20,8 @@ type Driver interface {
 	// PutModules upserts a number of modules under a given prefix.
 	DeleteModule(ctx context.Context, name string) (bool, error)
 
+	IsModulesEmpty(ctx context.Context) bool
+
 	PutData(ctx context.Context, path string, data interface{}) error
 	DeleteData(ctx context.Context, path string) (bool, error)
 

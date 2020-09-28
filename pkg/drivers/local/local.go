@@ -114,6 +114,11 @@ func (d *driver) DeleteModule(ctx context.Context, name string) (bool, error) {
 	return count == 1, err
 }
 
+//IsModulesEmtpy - Checks if there is any modules configured or not.
+func (d *driver) IsModulesEmpty(ctx context.Context) bool {
+	return len(d.modules) == 0
+}
+
 // alterModules alters the modules in the driver by inserting and removing
 // the provided modules then returns the count of modules removed.
 // alterModules expects that the caller is holding the modulesMux lock.
